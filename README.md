@@ -1,3 +1,7 @@
+# Deployed
+
+On netlify - https://to-do-tasks-git.netlify.app
+
 # Tasks:- To-Do List Web Application
 
 ## Overview
